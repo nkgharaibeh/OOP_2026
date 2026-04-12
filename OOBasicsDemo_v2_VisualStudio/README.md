@@ -26,6 +26,9 @@ This project demonstrates basic Object-Oriented Programming (OOP) concepts in C#
 - `OOBasicsDemo_v2.csproj` → Visual Studio / .NET project file
 
 ## UML Notes
+<img width="883" height="424" alt="image" src="https://github.com/user-attachments/assets/d1a60f1f-fe88-4180-bb74-4b43a6401af4" />
+
+
 ### Class Diagram idea
 You can draw these classes as UML class boxes:
 - Employee
