@@ -26,16 +26,13 @@ This project demonstrates basic Object-Oriented Programming (OOP) concepts in C#
 - `OOBasicsDemo_v2.csproj` → Visual Studio / .NET project file
 
 ## UML Notes
-<img width="883" height="424" alt="image" src="https://github.com/user-attachments/assets/d1a60f1f-fe88-4180-bb74-4b43a6401af4" />
-
-
 ### Class Diagram idea
 You can draw these classes as UML class boxes:
 - Employee
 - Location
 - TimeSheet
 - Department
-
+<img width="883" height="424" alt="image" src="https://github.com/user-attachments/assets/d1a60f1f-fe88-4180-bb74-4b43a6401af4" />
 ### Object Diagram idea
 At runtime, objects such as the following are created:
 - `emp1 : Employee`
@@ -44,11 +41,13 @@ At runtime, objects such as the following are created:
 - `irbidOffice : Location`
 - `ammanOffice : Location`
 - `timeSheet : TimeSheet`
+<img width="599" height="262" alt="image" src="https://github.com/user-attachments/assets/9d0ef6e1-abd3-476c-b018-23ad293d20da" />
 
 ### Sequence Diagram idea
 A key interaction is:
 1. `Program` calls `emp2.RecordOvertime(timeSheet, 3)`
 2. `Employee` calls `timeSheet.AddEntry(...)`
+<img width="846" height="309" alt="image" src="https://github.com/user-attachments/assets/30678b67-a3b0-4ca3-95c5-ab0274760faa" />
 
 This matches the slide discussion about sending messages between objects.
 
