@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "OOBasicsDemo_v3_DataTypes_Objects_References/1.0.0": {
+        "runtime": {
+          "OOBasicsDemo_v3_DataTypes_Objects_References.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OOBasicsDemo_v3_DataTypes_Objects_References/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
