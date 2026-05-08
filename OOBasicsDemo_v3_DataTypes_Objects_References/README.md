@@ -1,7 +1,7 @@
 # OOBasicsDemo_v3_DataTypes_Objects_References
 
 This project is a continuation of **OOBasicsDemo_v2_VisualStudio**.
-
+Can be watched in this video https://www.youtube.com/watch?v=xvWMudvXs3w
 Version 2 focused on basic OOP:
 
 - Classes
@@ -13,7 +13,7 @@ Version 2 focused on basic OOP:
 - Collaboration through messages
 
 Version 3 adds the concepts from Chapter 4:
-
+Can be watched in this video https://www.youtube.com/watch?v=u19_a-bgVfk
 **C# Data Types, Objects and References**
 
 ---
